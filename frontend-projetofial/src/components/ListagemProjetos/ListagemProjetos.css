@@ -1,0 +1,29 @@
+/* ListagemProjetos.css */
+.listagem-projetos-container {
+    padding: 20px;
+    background-color: #f4f4f9;
+}
+
+.listagem-projetos-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.listagem-projetos-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.listagem-projetos-container table, th, td {
+    border: 1px solid #ddd;
+}
+
+.listagem-projetos-container th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+.listagem-projetos-container th {
+    background-color: #f2f2f2;
+}
